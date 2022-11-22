@@ -1,0 +1,12 @@
+{
+  "displayCluster": true,
+  "showFeatureCount": true,
+  "featureCountLabel": "COUNT",
+  "summaryLayer": {
+    "fields": [],
+    "id": "33ad2d0250be4b24965c9c15c421ccda",
+    "name": "Stasiun KA",
+    "filterField": "AKTIF",
+    "url": "33ad2d0250be4b24965c9c15c421ccda"
+  }
+}
